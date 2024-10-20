@@ -49,7 +49,7 @@ header a:hover, footer a:hover {
 }
 
 section {
-    font-size: 5vw;
+    font-size: 4.5vw;
     font-family: var(--fonte3);
     padding-top: 10vh;
     padding-bottom: 10vh;  
@@ -85,12 +85,12 @@ section p {
 }
 
 #img01 {
-    background-image: url('/imagens/background001.jpg');
+    background-image: url('../imagens/background001.jpg');
 }
 
 #img02 {
     background-image: url('../imagens/background002.jpg');
-
+    
 }
 
 footer {
